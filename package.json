@@ -1,6 +1,6 @@
 {
   "name": "@rahul1115/repo2",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,5 @@
     "url": "https://github.com/RAHUL1115/repo2/issues"
   },
   "homepage": "https://github.com/RAHUL1115/repo2#readme",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
