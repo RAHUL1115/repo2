@@ -1,3 +1,3 @@
 const packageJSON = require('./package.json')
 
-module.exports = packageJSON
+module.exports = packageJSON;
